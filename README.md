@@ -1,4 +1,4 @@
-
+[![Artem's GitHub Banner](./GitHubHeader.png)](https://github.com/exposedcat)  <!-- Banner by @braydoncoyer -->
 
 [![Visits Badge](https://badges.pufler.dev/visits/exposedcat/exposedcat)](https://github.com/ExposedCat)
 [![Repos Badge](https://badges.pufler.dev/repos/exposedcat)](https://github.com/ExposedCat?tab=repositories)
