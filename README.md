@@ -45,11 +45,11 @@ I know **russian** (native), **ukrainian** (advanced) and **english** (intermedi
 <br>  
 
 <a href="https://github.com/exposedcat/goose-desktop-amongus">
-  <img align="center" style="margin:500px" src="https://github-readme-stats.vercel.app/api/pin/?username=exposedcat&repo=Goose-Desktop-AmongUS&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:500px" src="http://github-readme-stats.vercel.app/api/pin/?username=exposedcat&repo=Goose-Desktop-AmongUS&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/ExposedCat/Headers-Generator">
-  <img align="center" style="margin:500px" src="https://github-readme-stats.vercel.app/api/pin/?username=exposedcat&repo=Headers-Generator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:500px" src="http://github-readme-stats.vercel.app/api/pin/?username=exposedcat&repo=Headers-Generator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 ## &#x1f4c8; GitHub Stats
