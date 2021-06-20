@@ -20,7 +20,7 @@ I'm **5** years in IT. During this time I had experience with:
 🤝 Also I have **3.5** commercial experience with technologies marked «💰».  
 <a href="https://freelancehunt.com/freelancer/Jobgter.html">Here</a> is my FreelanceHunt profile, where, through practice, I gained most of my knowledge.  
 
-🐱 I have some pet-projects, like automated Telegram channel, desktop Telegram client, feedback chat bots, etc. You can check it <a href="https://exposedcat.github.io">here</a>, in my <a href="https://abcv.io/cv/exposedcat">CV</a> or simply in my GitHub repositories.  
+🐱 I have some pet-projects, like automated Telegram channel, desktop Telegram client, feedback chat bots, etc. You can check it <a href="https://exposedcat.github.io/#projects">here</a>, in my <a href="https://abcv.io/cv/exposedcat">CV</a> or simply in my GitHub repositories.  
   
 🗣 I know **russian** (native), **ukrainian** (advanced) and **english** (intermediate) languages. My english knowlenge allows me to read technical docs, use search engines and talk with other developers in english-talking communities.
 
