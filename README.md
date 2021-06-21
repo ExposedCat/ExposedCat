@@ -52,7 +52,7 @@ I know **russian** (native), **ukrainian** (advanced) and **english** (intermedi
   <img align="center" style="margin:500px" src="http://github-readme-stats.vercel.app/api/pin/?username=exposedcat&repo=Headers-Generator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 <br>
 
@@ -70,7 +70,7 @@ I know **russian** (native), **ukrainian** (advanced) and **english** (intermedi
 <br>
 
 
-## Contact 📞
+## Contact
 I am available from **8:00 AM** to **10:00 PM** UTC+3 (Kyiv time). Write or call me on:  
  ► Telegram: <a href="https://t.me/ExposedCat">@ExposedCat</a>  
 📧 E-Mail: <a href="mailto:artem13.prokop@gmail.com">artem13.prokop@gmail.com</a>  
