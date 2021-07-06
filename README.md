@@ -5,7 +5,7 @@
 <a href="https://t.me/ExposedCat">![](https://img.shields.io/badge/Telegram-ExposedCat-informational?style=flat&logo=telegram&logoColor=26A5E4&color=26A5E4)</a>
 ## About me 👨‍💻
 I'm Artem, 17 y.o. purposeful and ambitious software engineer with irresistable desire to self-development and studying.  
-My goal now is to learn **React.JS**, **TypeScript** and **Node.JS**, so I'm looking for an internship.
+My goal now is to learn basics of **React.JS** and **TypeScript** / **Node.JS** for backend development, so I'm looking for an internship.
 
 ## Education
 I finished **Math&IT** class at **<a href="http://rl.odessa.ua/index.php/en">Richelieu Scientific Lyceum</a>** and passed **External Independent Assessment**. Waiting for results to enter university.
