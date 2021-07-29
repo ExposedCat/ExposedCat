@@ -8,7 +8,8 @@ I'm Artem, 17 y.o. purposeful and ambitious software engineer with irresistable 
 My goal now is to learn basics of **React.JS** and improve **TypeScript** / **Node.JS** skills for backend development, so I'm looking for an internship.
 
 ## Education
-I finished **Math&IT** class at **<a href="http://rl.odessa.ua/index.php/en">Richelieu Scientific Lyceum</a>** and passed **External Independent Assessment**. Waiting for results to enter university.
+I finished **Math&IT** class at **<a href="http://rl.odessa.ua/index.php/en">Richelieu Scientific Lyceum</a>**.
+Now I'm studying CS at State University "Odessa Polytechnic" .
 
 ## Skills 
 I'm **5** years in IT. During this time I had experience with:  
