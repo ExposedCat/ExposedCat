@@ -27,7 +27,7 @@ I'm **5** years in IT. During this time I had experience with:
   **![](https://img.shields.io/badge/Electron-6%20Months-informational?style=flat&logo=electron&logoColor=61DAFB&color=47848F)**  
   **![](https://img.shields.io/badge/React-2%20Months-informational?style=flat&logo=react&logoColor=61DAFB&color=61DAFB)**  
 
-Also I have **3.5** commercial experience with technologies marked «💰».  
+Also I have **3.5** years of commercial experience with technologies marked «💰».  
 <a href="https://freelancehunt.com/freelancer/Jobgter.html">Here</a> is my FreelanceHunt profile, where, through practice, I gained most of my knowledge.  
   
 I know **russian** (native), **ukrainian** (advanced) and **english** (intermediate) languages. My english knowlenge allows me to read technical docs, use search engines and talk with other developers in english-talking communities without any problems.
