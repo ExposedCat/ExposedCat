@@ -16,14 +16,14 @@ Now I'm studying CS at State University "Odessa Polytechnic" .
 ## Skills 
 I'm **5** years in IT. During this time I had experience with:  
 
-  **![](https://img.shields.io/badge/HTML-5%20Years-informational?style=flat&logo=html5&logoColor=E34F26&color=E34F26)**  
-  **![](https://img.shields.io/badge/CSS-5%20Years-informational?style=flat&logo=css3&logoColor=1572B6&color=1572B6)**  
   **![](https://img.shields.io/badge/JavaScript-5%20Years-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)** 💰  
   **![](https://img.shields.io/badge/Node.JS-4%20Years-informational?style=flat&logo=node.js&logoColor=339933&color=339933)** 💰  
   **![](https://img.shields.io/badge/NPM-4%20Years-informational?style=flat&logo=npm&logoColor=white&color=C21325)**  
   **![](https://img.shields.io/badge/MongoDB-1%20Year-informational?style=flat&logo=mongodb&logoColor=47A248&color=47A248)** 💰  
   **![](https://img.shields.io/badge/Mongoose.JS-1%20Year-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=C21325)** 💰    
   **![](https://img.shields.io/badge/Python%203-1%20Year-informational?style=flat&logo=python&logoColor=FECC00&color=3776AB)** 💰    
+  **![](https://img.shields.io/badge/HTML-1%20Year-informational?style=flat&logo=html5&logoColor=E34F26&color=E34F26)**  
+  **![](https://img.shields.io/badge/CSS-1%20Year-informational?style=flat&logo=css3&logoColor=1572B6&color=1572B6)**  
   **![](https://img.shields.io/badge/Electron-6%20Months-informational?style=flat&logo=electron&logoColor=61DAFB&color=47848F)**  
   **![](https://img.shields.io/badge/React-2%20Months-informational?style=flat&logo=react&logoColor=61DAFB&color=61DAFB)**  
 
