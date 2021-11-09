@@ -5,7 +5,7 @@
 <a href="https://t.me/ExposedCat">![](https://img.shields.io/badge/Telegram-ExposedCat-informational?style=flat&logo=telegram&logoColor=26A5E4&color=26A5E4)</a>
 ## About me 👨‍💻
 I'm Artem, 17 y.o. purposeful and ambitious software engineer with irresistable desire to self-development and studying.  
-My goal now is to learn basics of **React.JS** and improve **TypeScript** / **Node.JS** skills for backend development, so I'm looking for an internship.  
+My goal now is to learn basics of **SFCC** and improve **TypeScript** / **Node.JS** skills for backend development, so I'm looking for an internship.  
   
 **Looking for PDF CV**? You can find it in this repo: [/ExposedCat/Artem-Prokop-CV.pdf](https://github.com/ExposedCat/ExposedCat/blob/main/Artem-Prokop-CV.pdf)
 
