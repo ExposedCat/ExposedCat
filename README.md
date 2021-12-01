@@ -5,13 +5,13 @@
 <a href="https://t.me/ExposedCat">![](https://img.shields.io/badge/Telegram-ExposedCat-informational?style=flat&logo=telegram&logoColor=26A5E4&color=26A5E4)</a>
 ## About me 👨‍💻
 I'm Artem, 17 y.o. purposeful and ambitious software engineer with irresistable desire to self-development and studying.  
-My goal now is to learn basics of **SFCC** and improve **TypeScript** / **Node.JS** skills for backend development, so I'm looking for an internship.  
+I work at <a href="https://synebo.io">Synebo</a> (<a href="https://korokasolutions.com">Koroka Solutions</a>) as Salesforce Commerce Cloud Developer.
   
 **Looking for PDF CV**? You can find it in this repo: [/ExposedCat/Artem-Prokop-CV.pdf](https://github.com/ExposedCat/ExposedCat/blob/main/Artem-Prokop-CV.pdf)
 
 ## Education
 I finished **Math&IT** class at **<a href="http://rl.odessa.ua/index.php/en">Richelieu Scientific Lyceum</a>**.
-Now I'm studying CS at State University "Odessa Polytechnic" .
+Now I'm studying CS (1st grade) at **<a href="http://op.edu.ua/en">State University "Odessa Polytechnic"</a>**.
 
 ## Skills 
 I'm **5** years in IT. During this time I had experience with:  
@@ -27,7 +27,7 @@ I'm **5** years in IT. During this time I had experience with:
   **![](https://img.shields.io/badge/Electron-6%20Months-informational?style=flat&logo=electron&logoColor=61DAFB&color=47848F)**  
   **![](https://img.shields.io/badge/React-2%20Months-informational?style=flat&logo=react&logoColor=61DAFB&color=61DAFB)**  
 
-Also I have **3.5** years of commercial experience with technologies marked «💰».  
+Also I have **3** years of commercial experience with technologies marked «💰».  
 <a href="https://freelancehunt.com/freelancer/Jobgter.html">Here</a> is my FreelanceHunt profile, where, through practice, I gained most of my knowledge.  
   
 I know **russian** (native), **ukrainian** (advanced) and **english** (intermediate) languages. My english knowlenge allows me to read technical docs, use search engines and talk with other developers in english-talking communities without any problems.
@@ -75,6 +75,7 @@ I know **russian** (native), **ukrainian** (advanced) and **english** (intermedi
 
 ## Contact
 I am available from **8:00 AM** to **10:00 PM** UTC+3 (Kyiv time). Write or call me on:  
- ► Telegram: <a href="https://t.me/ExposedCat">@ExposedCat</a>  
-📧 E-Mail: <a href="mailto:artem13.prokop@gmail.com">artem13.prokop@gmail.com</a>  
+ ► Telegram: <a href="https://t.me/ProkopArtem">@ProkopArtem</a> (Work only)  
+ ► Telegram: <a href="https://t.me/ExposedCat">@ExposedCat</a> (Non-work only)  
+📧 E-Mail: <a href="mailto:artem.prokop.dev@gmail.com">artem.prokop.dev@gmail.com</a>  
 📱 Phone: `+38 (094) 94-942-01`  
