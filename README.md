@@ -4,7 +4,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/exposedcat)](https://github.com/ExposedCat?tab=repositories)
 <a href="https://t.me/ExposedCat">![](https://img.shields.io/badge/Telegram-ExposedCat-informational?style=flat&logo=telegram&logoColor=26A5E4&color=26A5E4)</a>
 ## About me 👨‍💻
-I'm Artem, 17 y.o. purposeful and ambitious software engineer with irresistable desire to self-development and studying.  
+I'm Artem, 18 y.o. purposeful and ambitious software engineer with irresistable desire to self-development and studying.  
 I work at <a href="https://synebo.io">Synebo</a> (<a href="https://korokasolutions.com">Koroka Solutions</a>) as Salesforce Commerce Cloud Developer.
   
 **Looking for PDF CV**? Get it here: [Artem-Prokop-CV.pdf](https://github.com/ExposedCat/ExposedCat/blob/main/Artem-Prokop-CV.pdf)
