@@ -79,8 +79,10 @@ I know **russian** (native), **ukrainian** (advanced) and **english** (intermedi
 
 
 ## Contact
-I am available from **8:00 AM** to **10:00 PM** UTC+3 (Kyiv time). Write or call me on:  
- ► Telegram: <a href="https://t.me/ProkopArtem">@ProkopArtem</a> (Work only)  
- ► Telegram: <a href="https://t.me/ExposedCat">@ExposedCat</a> (Non-work only)  
+I am available from **8:00 AM** to **10:00 PM** UTC+2 (Czech Republic). Write or call me on:  
+
+✈️ Telegram (<b>Work only</b>): <a href="https://t.me/ProkopArtem">@ProkopArtem</a>   
+✈️ Telegram (<b>Non-work only</b>): <a href="https://t.me/ExposedCat">@ExposedCat</a>  
 📧 E-Mail: <a href="mailto:artem.prokop.dev@gmail.com">artem.prokop.dev@gmail.com</a>  
-📱 Phone: `+38 (094) 94-942-01`  
+🇺🇦 Phone: `+380949494201`  
+🇨🇿 Phone: `+420721581219`  
