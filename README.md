@@ -1,11 +1,11 @@
 [![Artem's GitHub Banner](./GitHubHeader.png)](https://github.com/exposedcat)  <!-- Banner by @braydoncoyer -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/exposedcat/exposedcat)](https://github.com/ExposedCat)
-[![Repos Badge](https://badges.pufler.dev/repos/exposedcat)](https://github.com/ExposedCat?tab=repositories)
-<a href="https://t.me/ExposedCat">![](https://img.shields.io/badge/Telegram-ExposedCat-informational?style=flat&logo=telegram&logoColor=26A5E4&color=26A5E4)</a>
+[![Visits Badge](https://badges.pufler.dev/visits/exposedcat/exposedcat?style=for-the-badge)](https://github.com/ExposedCat)
+[![Repos Badge](https://badges.pufler.dev/repos/exposedcat?style=for-the-badge)](https://github.com/ExposedCat?tab=repositories)
+<a href="https://t.me/ExposedCat">![](https://img.shields.io/badge/Telegram-ExposedCat-informational?style=for-the-badge&logo=telegram&logoColor=26A5E4&color=26A5E4)</a>
 ## About me 👨‍💻
-I'm Artem, 18 y.o. purposeful and ambitious software engineer with irresistable desire to self-development and studying.  
-I work at <a href="https://synebo.io">Synebo</a> (<a href="https://korokasolutions.com">Koroka Solutions</a>) as Salesforce Commerce Cloud Developer.
+I'm Artem, 18 y.o. purposeful and ambitious software developer with an irresistible desire for self-development and studying.  
+I am from Ukraine, but now living in the Czech Republic and looking for a job in field of development.
   
 **Looking for PDF CV**? Get it here: [Artem-Prokop-CV.pdf](https://github.com/ExposedCat/ExposedCat/blob/main/Artem-Prokop-CV.pdf)
 
@@ -14,8 +14,7 @@ I finished **Math&IT** class at **<a href="http://rl.odessa.ua/index.php/en">Ric
 Now I'm studying CS (1st grade) at **<a href="http://op.edu.ua/en">State University "Odessa Polytechnic"</a>**.
 
 ## Skills 
-I'm **5** years in IT. During this time I had experience with:  
-
+I'm **5** years in IT. During this time I had experience with:   
   **![](https://img.shields.io/badge/%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0JavaScript%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0-_·_5%20Years_·_-informational?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=C21325)** 💰  
   **![](https://img.shields.io/badge/%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0Node.JS%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0-_·_4%20Years_·_-informational?style=for-the-badge&logo=node.js&logoColor=339933&color=C21325)** 💰  
   **![](https://img.shields.io/badge/%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0MongoDB%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0%20%E2%81%A0-_·_1%20Year_·-informational?style=for-the-badge&logo=mongodb&logoColor=47A248&color=F7DF1E)** 💰  
@@ -31,7 +30,7 @@ I'm **5** years in IT. During this time I had experience with:
 I have commercial experience with technologies marked «💰».  
 <a href="https://freelancehunt.com/freelancer/Jobgter.html">Here</a> is my FreelanceHunt profile, where, through practice, I gained most of my knowledge.  
   
-I know **russian** (native), **ukrainian** (advanced) and **english** (intermediate) languages. My english knowlenge allows me to read technical docs, use search engines and talk with other developers in english-talking communities without any problems.
+I know **Russian** (native), **Ukrainian** (advanced), **English** (upper intermediate) languages and actively learning **Czech** now. My English knowlenge allows me to read technical docs, use search engines and talk with other developers in english-talking communities without any problems.
 
 ## Pet Projects
 
