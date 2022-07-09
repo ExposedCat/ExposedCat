@@ -37,23 +37,23 @@ I know **Russian** (native), **Ukrainian** (advanced), **English** (upper interm
 <br>
 
 <p align="center">
+  <a href="https://github.com/exposedcat/microbit-games">
+    <img align="center" style="margin:500px" src="https://github-readme-stats.vercel.app/api/pin/?username=exposedcat&repo=microbit-games&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+
+  <a href="https://github.com/exposedcat/stunning-gnome-de">
+    <img align="center" style="margin:500px" src="https://github-readme-stats.vercel.app/api/pin/?username=exposedcat&repo=stunning-gnome-de&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+
+  <br>  
+  <br>  
+
   <a href="https://github.com/exposedcat/snowy">
     <img align="center" style="margin:500px" src="https://github-readme-stats.vercel.app/api/pin/?username=exposedcat&repo=snowy&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   </a>
 
-  <a href="https://github.com/exposedcat/ethereal-y">
-    <img align="center" style="margin:500px" src="https://github-readme-stats.vercel.app/api/pin/?username=exposedcat&repo=ethereal-y&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-
-  <br>  
-  <br>  
-
-  <a href="https://github.com/exposedcat/meowgram">
-    <img align="center" style="margin:500px" src="https://github-readme-stats.vercel.app/api/pin/?username=exposedcat&repo=meowgram&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-
-  <a href="https://github.com/exposedcat/goose-desktop-amongus">
-    <img align="center" style="margin:500px" src="http://github-readme-stats.vercel.app/api/pin/?username=exposedcat&repo=Goose-Desktop-AmongUS&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <a href="https://github.com/exposedcat/express-mongodb-template">
+    <img align="center" style="margin:500px" src="http://github-readme-stats.vercel.app/api/pin/?username=exposedcat&repo=express-mongodb-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   </a>
 </p>
 
