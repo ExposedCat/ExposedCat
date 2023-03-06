@@ -1,26 +1,32 @@
 [![Artem's GitHub Banner](./GitHubHeader.png)](https://github.com/exposedcat)  <!-- Banner by @braydoncoyer -->
 
 <div align="center">
+  
   <a href="https://t.me/ExposedCatDev">
-
+    
   ![](https://img.shields.io/badge/Profile-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=26A5E4&color=26A5E4)
+    
   </a>
   <a href="https://www.reddit.com/user/ExposedCatDev">
+    
   ![](https://img.shields.io/badge/Profile-Reddit-informational?style=for-the-badge&logo=reddit&logoColor=FF5700&color=FF5700)
   </a>
+  
 </div>
 
 <h1 align="center">About me 👨‍💻</h1>
-I'm Artem, 18 y.o. purposeful and ambitious software developer with an irresistible desire for self-development and studying.  
+I'm Artem, 19 y.o. purposeful and ambitious software developer with an irresistible desire for self-development and studying.  
 I am from Ukraine, but now living in the Czech Republic and looking for a job in field of development.  
 
 <b>My CV</b>: <b><a href ="https://github.com/ExposedCat/ExposedCat/blob/main/Artem-Prokop-CV.pdf">Download PDF</a></b>
 
 <h1 align="center">Education</h1>
-· [2016 - 2021] Math & IT class at <b> <a href="http://rl.odessa.ua/index.php/en">Richelieu Scientific Lyceum</a> </b>  
 
-· [2021 - now] Computer Science (2nd year) at <b><a href="http://op.edu.ua/en">State University "Odessa Polytechnic"</a></b>  
-· [2022 - now] Czech Language (short-term program) at <b><a href="http://cvut.cz">Czech Techical University in Prague</a></b>
+· [`2016` - `2021`] Math & IT class at <b> <a href="http://rl.odessa.ua/index.php/en">Richelieu Scientific Lyceum</a> </b>  
+
+· [`2021` - `now`] Computer Science (2nd year) at <b><a href="http://op.edu.ua/en">State University "Odessa Polytechnic"</a></b>  
+
+· [`2022` - `now`] Czech Language (short-term program) at <b><a href="http://cvut.cz">Czech Techical University in Prague</a></b>
 
 <h1 align="center">Skills</h1>
 I'm <b>5</b> years in IT. During this time I had experience with:
@@ -30,12 +36,16 @@ I'm <b>5</b> years in IT. During this time I had experience with:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%23102C53.svg?style=for-the-badge&logo=zorin&logoColor=white)
+![MQTT](https://img.shields.io/badge/mqtt-%23660066.svg?style=for-the-badge&logo=mqtt&logoColor=white)
+![WebRTC](https://img.shields.io/badge/webrtc-%23333333.svg?style=for-the-badge&logo=webrtc&logoColor=white)
 
 <h3>Databases:</h3>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -45,6 +55,9 @@ I'm <b>5</b> years in IT. During this time I had experience with:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Remix](https://img.shields.io/badge/remix-%2320232a.svg?style=for-the-badge&logo=remix&logoColor=%2361DAFB)
+![FAST](https://img.shields.io/badge/fast-%2320232a.svg?style=for-the-badge&logo=codefactor&logoColor=%23F44A6A)
+![EJS](https://img.shields.io/badge/ejs-%2320232a.svg?style=for-the-badge&logo=jss&logoColor=%23F7DF1E)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -69,6 +82,18 @@ I'm <b>5</b> years in IT. During this time I had experience with:
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+<h3>Containers:</h3>
+
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
+![Toolbox](https://img.shields.io/badge/toolbox-%2351A2DA.svg?style=for-the-badge&logo=flatpak&logoColor=white)
+
+<h3>Testing:</h3>
+
+![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/chai-%23A30701.svg?style=for-the-badge&logo=chai&logoColor=white)
+
 <h3>IDEs:</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -85,36 +110,28 @@ I'm <b>5</b> years in IT. During this time I had experience with:
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
 
 
 
-
+<br>
 Also, I have a <b><a href="https://freelancehunt.com/freelancer/Jobgter.html">Freelance profile</a></b>, where, through practice, I gained most of my knowledge.  
   
 <h1 align="center">Communication</h1>
-· [C2] 🇺🇦 Russian  
 
-· [C1] 🇺🇦 Ukrainian  
-· [B2] 🇬🇧 English  
-· [A2] 🇨🇿 Czech  
-
-My English knowlenge allows me to read technical docs, use search engines and talk with other developers in english-talking communities without any problems.
+I speak 🇺🇦 Russian, 🇺🇦 Ukrainian, 🇬🇧 English and 🇨🇿 Czech (basics)
 
 <h1 align="center">Contact</h1>
 
-· [`08`:`00` - `21`:`00`] Telegram (<b>Work only</b>): <b><a href="https://t.me/ProkopArtem">@ProkopArtem</a></b>   
-· [`08`:`00` - `21`:`00`] Telegram (<b>Non-work only</b>): <b><a href="https://t.me/ExposedCat">@ExposedCat</a></b>  
+· [`08`:`00` - `21`:`00`] Telegram: <b><a href="https://t.me/ExposedCat">@ExposedCat</a></b>  
+
 · [`00`:`00` - `23`:`59`] E-Mail: <b><a href="mailto:artem.prokop.dev@gmail.com">artem.prokop.dev@gmail.com</a></b>  
+
 · [`14`:`30` - `21`:`00`] Phone: `+380949494201`  
+
 · [`14`:`30` - `21`:`00`] Phone: `+420721581219`  
 
 <h1 align="center">GitHub Stats</h1>
