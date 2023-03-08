@@ -26,7 +26,7 @@ I am from Ukraine, but now living in the Czech Republic and looking for a job in
 
 · [`2021` - `now`] Computer Science (2nd year) at <b><a href="http://op.edu.ua/en">State University "Odessa Polytechnic"</a></b>  
 
-· [`2022` - `now`] Czech Language (short-term program) at <b><a href="http://cvut.cz">Czech Techical University in Prague</a></b>
+· [`2022` - `now`] Open Informatics at <b><a href="http://cvut.cz">Czech Techical University in Prague</a></b>
 
 <h1 align="center">Skills</h1>
 I'm <b>5</b> years in IT. During this time I had experience with:
