@@ -24,7 +24,7 @@ I am from Ukraine, but now living in the Czech Republic and looking for a job in
 
 · [`2016` - `2021`] Math & IT class at <b> <a href="http://rl.odessa.ua/index.php/en">Richelieu Scientific Lyceum</a> </b>  
 
-· [`2021` - `now`] Computer Science (2nd year) at <b><a href="http://op.edu.ua/en">State University "Odessa Polytechnic"</a></b>  
+· [`2021` - `now`] Computer Science (3rd year) at <b><a href="http://op.edu.ua/en">State University "Odessa Polytechnic"</a></b>  
 
 · [`2022` - `now`] Open Informatics at <b><a href="http://cvut.cz">Czech Techical University in Prague</a></b>
 
