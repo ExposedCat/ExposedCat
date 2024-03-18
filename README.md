@@ -15,7 +15,7 @@
 </div>
 
 <h1 align="center">About me 👨‍💻</h1>
-I'm Artem, 19 y.o. purposeful and ambitious software developer with an irresistible desire for self-development and studying.  
+I'm Artem, 20 y.o. purposeful and ambitious software developer with an irresistible desire for self-development and studying.  
 I am from Ukraine, but now living in the Czech Republic and looking for a job in field of development.  
 
 <b>My CV</b>: <b><a href ="https://github.com/ExposedCat/ExposedCat/blob/main/Artem-Prokop-CV.pdf">Download PDF</a></b>
@@ -24,7 +24,7 @@ I am from Ukraine, but now living in the Czech Republic and looking for a job in
 
 · [`2016` - `2021`] Math & IT class at <b> <a href="http://rl.odessa.ua/index.php/en">Richelieu Scientific Lyceum</a> </b>  
 
-· [`2021` - `now`] Computer Science (3rd year) at <b><a href="http://op.edu.ua/en">State University "Odessa Polytechnic"</a></b>  
+· [`2021` - `now`] Computer Science (last year) at <b><a href="http://op.edu.ua/en">State University "Odessa Polytechnic"</a></b>  
 
 · [`2022` - `now`] Open Informatics at <b><a href="http://cvut.cz">Czech Techical University in Prague</a></b>
 
