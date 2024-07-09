@@ -18,7 +18,7 @@
 I'm Artem, 20 y.o. purposeful and ambitious software developer with an irresistible desire for self-development and studying.  
 I am from Ukraine, but now living in the Czech Republic and looking for a job in field of development.  
 
-<b>My CV</b>: <b><a href ="https://github.com/ExposedCat/ExposedCat/blob/main/Artem-Prokop-CV.pdf">Download PDF</a></b>
+<b>My CV</b>: <b><a href ="https://github.com/ExposedCat/ExposedCat/blob/main/Artem-Prokop-CV.pdf">View PDF</a></b>
 
 <h1 align="center">Education</h1>
 
