@@ -1,24 +1,24 @@
 [![Artem's GitHub Banner](./GitHubHeader.png)](https://github.com/exposedcat)  <!-- Banner by @braydoncoyer -->
 
 <div align="center">
-  
+
 [![](https://img.shields.io/badge/Profile-Reddit-informational?style=for-the-badge&logo=reddit&logoColor=FF5700&color=FF5700)](https://www.reddit.com/user/ExposedCatDev)
 [![](https://img.shields.io/badge/Profile-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=26A5E4&color=26A5E4)](https://t.me/ExposedCatDev)
-  
-</div>  
+
+</div>
 
 
 
 <h1 align="center">About me 👨‍💻</h1>
-I'm 20 y.o. purposeful and enthusiatic software developer from Ukrainian. Currently I'm living in Czech Republic and working as a Full-stack Developer. Always open to offers. View my <a href ="https://github.com/ExposedCat/ExposedCat/blob/main/Artem-Prokop-CV.pdf">PDF CV here</a></b>   
+I'm 21 y.o. open-minded Full-stack engineer from Ukraine living in Czechia. Always open to opportunities, see my <a href ="https://github.com/ExposedCat/ExposedCat/blob/main/Artem-Prokop-CV.pdf">PDF CV here</a></b>
 
 <h1 align="center">Education</h1>
 
-· `2016` to `2021` Math & IT class at <b> <a href="http://rl.odessa.ua/index.php/en">Richelieu Scientific Lyceum</a> </b>  
+✦ `2016` to `2021` Math & IT class at <b> <a href="http://rl.odessa.ua/index.php/en">Richelieu Scientific Lyceum</a> </b>
 
-· `2021` to `2025` Computer Science (last year) at <b><a href="http://op.edu.ua/en">State University "Odessa Polytechnic"</a></b>  
+✦ `2021` to `2025` Computer Science at <b><a href="http://op.edu.ua/en">State University "Odessa Polytechnic"</a></b>
 
-· `2022` to `2024` Open Informatics at <b><a href="http://cvut.cz">Czech Techical University in Prague</a></b>
+✦ `2022` to `2024` Open Informatics at <b><a href="http://cvut.cz">Czech Techical University in Prague</a></b>
 
 <h1 align="center">Skills</h1>
 I'm expanding my IT knowledge since I was 13. During this time I had experience with:
@@ -94,18 +94,18 @@ I'm expanding my IT knowledge since I was 13. During this time I had experience 
 
 
 <br>
-  
+
 <h1 align="center">Communication</h1>
 
 I speak 🇺🇦 Ukrainian, 🇬🇧 English and 🇨🇿 Czech (basics)
 
 <h1 align="center">Contact</h1>
 
-· `10`:`00` to `21`:`00` WhatsApp: `+420721581219`   
+✦ `10`:`00` to `21`:`00` WhatsApp: `+420721581219`
 
-· `00`:`00` to `23`:`59` E-Mail: <b><a href="mailto:artem.prokop.dev@gmail.com">artem.prokop.dev@gmail.com</a></b>  
+✦ `00`:`00` to `23`:`59` E-Mail: <b><a href="mailto:artem.prokop.dev@gmail.com">artem.prokop.dev@gmail.com</a></b>
 
-· `10`:`00` to `21`:`00` Telegram: <b><a href="https://t.me/ExposedCat">@ExposedCat</a></b>  
+✦ `10`:`00` to `21`:`00` Telegram: <b><a href="https://t.me/ExposedCat">@ExposedCat</a></b>
 
 
 
