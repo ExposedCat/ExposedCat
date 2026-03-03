@@ -1,8 +1,9 @@
 # Artem Prokop
 
 Find me on [Reddit](https://www.reddit.com/user/ExposedCatDev),
-[Telegram](https://t.me/ExposedCatDev) or
-[LinkedIn](https://www.linkedin.com/in/artem-prokop/)
+[Telegram](https://t.me/ExposedCatDev),
+[LinkedIn](https://www.linkedin.com/in/artem-prokop/) or see my
+[CV](./assets/CV.pdf)
 
 ## Experience
 
@@ -23,7 +24,7 @@ grammY, Deno, Bun, Zod, WS, MQTT, WebRTC, GDBus, GraphQL, Urql, MongoDB,
 PostgreSQL, Prisma, ElasticSearch, Qdrant, MySQL, JavaScript, Web Workers,
 WebGL, HTML5, CSS3, ReactJS, FAST, EJS, ChartJS, ReactNative, GJS, Bash, Fedora,
 Ubuntu, Docker, Podman, K8s, AWS, ElectronJS, GTK, GIT, CI/CD, Jest, Mocha,
-Chai, Playwright, [Salesforce](./b2c-dev-certificate.pdf) …
+Chai, Playwright, [Salesforce](./assets/b2c-dev-certificate.pdf) …
 
 Currently pushing limits at [Microsoft](https://www.microsoft.com)
 
