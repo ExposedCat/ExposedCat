@@ -18,12 +18,12 @@ and [[Snowy]](https://github.com/ExposedCat/snowy). I was a member of internal
 
 All of which made me work with, including but not limited to:
 
-**TypeScript**, NodeJS, Python, ExpressJS, NextJS, NestJS, Hono, ElysiaJS, WXT,
+TypeScript, NodeJS, Python, ExpressJS, NextJS, NestJS, Hono, ElysiaJS, WXT,
 grammY, Deno, Bun, Zod, WS, MQTT, WebRTC, GDBus, GraphQL, Urql, MongoDB,
 PostgreSQL, Prisma, ElasticSearch, Qdrant, MySQL, JavaScript, Web Workers,
-WebGL, HTML5, CSS3, ReactJS, FAST, EJS, ChartJS, ReactNative, GJS, Bash,
-**\*Fedora\***, Ubuntu, Docker, Podman, K8s, AWS, ElectronJS, GTK, GIT, CI/CD,
-Jest, Mocha, Chai, Playwright, [[Salesforce]](./b2c-dev-certificate.pdf) …
+WebGL, HTML5, CSS3, ReactJS, FAST, EJS, ChartJS, ReactNative, GJS, Bash, Fedora,
+Ubuntu, Docker, Podman, K8s, AWS, ElectronJS, GTK, GIT, CI/CD, Jest, Mocha,
+Chai, Playwright, [[Salesforce]](./b2c-dev-certificate.pdf) …
 
 Currently pushing limits at [[Microsoft]](https://www.microsoft.com)
 
